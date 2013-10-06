@@ -1,0 +1,11 @@
+[class*="col-"].empty::before {
+  content: "☮";
+  color: transparent;
+  text-shadow: none;
+}
+body{
+  padding-top: 30px;
+}
+section{
+  clear: both;
+}
